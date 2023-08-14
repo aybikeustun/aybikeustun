@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-<!--
-**aybikeustun/aybikeustun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m Aybike.
+- 🌱 I’m currently learning front-end.
+- 👯 I’m looking to collaborate on web developing. 
+- 📫 How to reach me: aybikeustun@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as an architect.
-- 🌱 I’m currently learning git and github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
